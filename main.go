@@ -1,10 +1,9 @@
 /*
 Copyright © 2025 NAME HERE <EMAIL ADDRESS>
-
 */
 package main
 
-import "github.com/Kobargo/zoom-recordings-vtt/cmd"
+import "TODO/cmd"
 
 func main() {
 	cmd.Execute()
